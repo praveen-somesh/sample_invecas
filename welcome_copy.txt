@@ -1,3 +1,9 @@
 1.my 1st edit
+<<<<<<< HEAD
 
 2.my 2nd from local repo
+=======
+my 2nd edit from github
+>>>>>>> a2c597f708f9ec430deea243a020c18a309464df
+
+3rd change
