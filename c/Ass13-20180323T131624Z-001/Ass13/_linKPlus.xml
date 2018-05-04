@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<General-info>
+    <Driver-name>Ass13</Driver-name>
+    <Toolchain>Linux GCC</Toolchain>
+    <Architecture>x86</Architecture>
+    <hostMachineKernel>true</hostMachineKernel>
+    <Kernel-Version>/home/batch2/Desktop/DD/linux-3.3.6</Kernel-Version>
+    <Licence>GPL</Licence>
+    <Author-name>Honey</Author-name>
+    <location>/home/batch1/Desktop/dd/assignment</location>
+    <wizardType>false</wizardType>
+    <wizardTypeInfo>false</wizardTypeInfo>
+</General-info>
